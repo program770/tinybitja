@@ -1,0 +1,30 @@
+{
+    "name": "TinyBit(ja)最新〔多分〕",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Tinybit": "github:villanova555/Tiny-bitLib#bda96a2f0dc48987ab683f9528c34902d06be54c"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.22",
+        "tag": "v6.0.22",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/d4b2649410f09af27917a9a6d78e62e7e5fd2781",
+        "target": "6.0.28",
+        "pxt": "9.0.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
